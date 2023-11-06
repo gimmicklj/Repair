@@ -1,0 +1,38 @@
+.card{
+  height: 94%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  margin: 20px;
+  padding: 20px;
+  box-shadow: 0 0 5px #fff,0 0 10px #cccccc;
+  border-radius: 16px;
+}
+
+.cardBox{
+  box-shadow: 0 0 5px #fff,0 0 10px #cccccc;
+  border-radius: 16px;
+  padding: 20px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.view{
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+}
+.btn{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.btnSuccess{
+  background-color: #1465e0;
+  color: #fff;
+  margin: 0 10px;
+}
+.btnDanger{
+  background-color: #bd1245;
+  color: #fff;
+  margin: 0 10px;
+}

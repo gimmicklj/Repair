@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Repair.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Repair.Api.Configuration.AutoMapperConfig">
+            <summary>
+            AutoMapper配置
+            </summary>
+        </member>
+        <member name="M:Repair.Api.Configuration.AutoMapperConfig.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="T:Repair.Api.Configuration.SwaggerGenConfig">
+            <summary>
+            Swagger配置类
+            </summary>
+        </member>
+        <member name="M:Repair.Api.Configuration.SwaggerGenConfig.ConfigSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            静态方法
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="T:Repair.Api.Controllers.AppUserController">
+            <summary>
+            用户控制器
+            </summary>
+        </member>
+        <member name="M:Repair.Api.Controllers.AppUserController.#ctor(Repair.Service.SysService.IAppUserService)">
+            <summary>
+            依赖注入
+            </summary>
+            <param name="appUserService"></param>
+        </member>
+        <member name="M:Repair.Api.Controllers.AppUserController.EditAsync(System.Int64)">
+            <summary>
+            编辑用户信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AppUserController.UpdateAsync(Repair.Entity.Dto.SysDto.AppUser.AppUserUpdateDto)">
+            <summary>
+            修改用户信息
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AppUserController.DeleteAsync(System.Int64)">
+            <summary>
+            删除用户信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AppUserController.GetUserInfoAsync">
+            <summary>
+            获取个人信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AppUserController.GetRepairWorkerSelectAsync">
+            <summary>
+            获取维修工选择器
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AppUserController.GetPagedListAppUser">
+            <summary>
+            分页获取所有用户信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AppUserController.GetEmployeeEvaluationCounts">
+            <summary>
+            获取维修工订单情况
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Repair.Api.Controllers.AreaController">
+            <summary>
+            区域控制器
+            </summary>
+        </member>
+        <member name="M:Repair.Api.Controllers.AreaController.#ctor(Repair.Service.SysService.IAreaService)">
+            <summary>
+            依赖注入
+            </summary>
+            <param name="areaService"></param>
+        </member>
+        <member name="M:Repair.Api.Controllers.AreaController.AddAsync(Repair.Entity.Dto.SysDto.Area.AreaAddDto)">
+            <summary>
+            添加区域
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AreaController.DeleteAsync(System.Int64)">
+            <summary>
+            删除区域
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AreaController.EditAsync(System.Int64)">
+            <summary>
+            编辑区域
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AreaController.UpdateAsync(Repair.Entity.Dto.SysDto.Area.AreaUpdateDto)">
+            <summary>
+            修改区域
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AreaController.GetAreaSelectAsync">
+            <summary>
+            获取区域选择器
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AreaController.GetAreaPageListAsync(Repair.Entity.Dto.BusDto.Parameters.QueryParameter)">
+            <summary>
+            分页获取地区信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Repair.Api.Controllers.AuditLogController">
+            <summary>
+            审核日志控制器
+            </summary>
+        </member>
+        <member name="M:Repair.Api.Controllers.AuditLogController.#ctor(Repair.Service.SysService.IAuditLogService)">
+            <summary>
+            依赖注入
+            </summary>
+            <param name="auditLogService"></param>
+        </member>
+        <member name="M:Repair.Api.Controllers.AuditLogController.AddAsync(Repair.Entity.Dto.SysDto.AuditLog.AuditLogAddDto)">
+            <summary>
+            添加审核日志
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AuditLogController.DeleteAsync(System.Int64)">
+            <summary>
+            删除审核日志
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AuditLogController.EditAsync(System.Int64)">
+            <summary>
+            编辑审核日志
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AuditLogController.UpdateAsync(Repair.Entity.Dto.SysDto.AuditLog.AuditLogUpdateDto)">
+            <summary>
+            修改审核日志
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AuditLogController.GetAuditLogPagedListAsync(System.Int64)">
+            <summary>
+            分页展示订单的审核日志
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Repair.Api.Controllers.AuthController">
+            <summary>
+            认控制器
+            </summary>
+        </member>
+        <member name="M:Repair.Api.Controllers.AuthController.#ctor(Repair.Service.SysService.IAuthService)">
+            <summary>
+            依赖注入
+            </summary>
+            <param name="authService"></param>
+        </member>
+        <member name="M:Repair.Api.Controllers.AuthController.LoginAsync(Repair.Entity.Dto.SysDto.AppUser.AppUserLoginDto)">
+            <summary>
+            登录
+            </summary>
+            <param name="appUserInput"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AuthController.RegisterAsync(Repair.Entity.Dto.SysDto.AppUser.AppUserAddDto)">
+            <summary>
+            注册
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.AuthController.LoginOut">
+            <summary>
+            退出登录
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Repair.Api.Controllers.CommentController">
+            <summary>
+            评论控制器
+            </summary>
+        </member>
+        <member name="M:Repair.Api.Controllers.CommentController.#ctor(Repair.Service.SysService.ICommentService)">
+            <summary>
+            依赖注入
+            </summary>
+            <param name="commentService"></param>
+        </member>
+        <member name="M:Repair.Api.Controllers.CommentController.AddAsync(Repair.Entity.Dto.SysDto.Comment.CommentAddDto)">
+            <summary>
+            添加评分
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.CommentController.GetAsync(System.Int64)">
+            <summary>
+            查看评价
+            </summary>
+            <param name="repairOrderId"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Repair.Api.Controllers.RepairOrderController">
+            <summary>
+            报销单控制器
+            </summary>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.#ctor(Repair.Service.SysService.IRepairOrderService)">
+            <summary>
+            依赖注入
+            </summary>
+            <param name="repairOrderService"></param>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.AddAsync(Repair.Entity.Dto.SysDto.RepairOrder.RepairOrderAddDto)">
+            <summary>
+            添加订单
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.DeleteAsync(System.Int64)">
+            <summary>
+            删除订单
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.EditAsync(System.Int64)">
+            <summary>
+            编辑订单
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.UpdateAsync(Repair.Entity.Dto.SysDto.RepairOrder.RepairOrderUpdateDto)">
+            <summary>
+            修改订单
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.RefuseAsync(System.Int64)">
+            <summary>
+            维修工拒接
+            </summary>
+            <param name="orderId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.TakeAsync(System.Int64)">
+            <summary>
+            维修工接单
+            </summary>
+            <param name="orderId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.FinishAsync(System.Int64)">
+            <summary>
+            维修工结单
+            </summary>
+            <param name="orderId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.ApproveAsync(System.Int64)">
+            <summary>
+            审核通过订单
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.DispatchAsync(Repair.Entity.Dto.SysDto.RepairOrder.DispatchOrderDTO)">
+            <summary>
+            管理员派单
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.GetTobeAuditOrderPagedListAsync">
+            <summary>
+            分页获取用户的待审核的订单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.GetTobeFinishedOrderPagedListAsync">
+            <summary>
+            分页获取用户的待处理的订单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.GetNotRatingOrderPagedListAsync">
+            <summary>
+            分页获取用户的未评价的订单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.GetRatedOrderPagedListAsync">
+            <summary>
+            分页获取用户已评价的订单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.GetUnTakeOrderPagedListAsync">
+            <summary>
+            分页获取维修人员的待处理的订单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.GetPendingOrderPagedListAsync">
+            <summary>
+            获取维修人员的处理中的订单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.GetRatedByUserOrderPagedListAsync">
+            <summary>
+            分页获取维修人员的完成了的订单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.GetTobeReviewedOrderPagedListAsync">
+            <summary>
+            分页查询待审核的维修单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.GetUnTakeByAdminOrderPagedListAsync">
+            <summary>
+            分页查询待派单的维修单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.GetAllUnFinishedOrderPagedListAsync">
+            <summary>
+            分页查询所有未完成维修单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Repair.Api.Controllers.RepairOrderController.GetAllFinishedOrderPagedListAsync">
+            <summary>
+            分页查询所有完成维修单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Repair.Api.Controllers.ResourcesController">
+            <summary>
+            资源上传控制器
+            </summary>
+        </member>
+        <member name="M:Repair.Api.Controllers.ResourcesController.#ctor(Microsoft.AspNetCore.Hosting.IWebHostEnvironment,Microsoft.Extensions.Logging.ILogger{Repair.Api.Controllers.ResourcesController})">
+            <summary>
+            依赖注入
+            </summary>
+            <param name="webHostEnvironment"></param>
+            <param name="logger"></param>
+        </member>
+        <member name="M:Repair.Api.Controllers.ResourcesController.BatchUploadAsync">
+            <summary>
+            图片批量上传
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Repair.Api.Filters.FileUploadOperationFilter">
+            <summary>
+            swagger上传文件接口过滤器
+            </summary>
+        </member>
+        <member name="M:Repair.Api.Filters.FileUploadOperationFilter.Apply(Microsoft.OpenApi.Models.OpenApiOperation,Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)">
+            <summary>
+            过滤方法
+            </summary>
+            <param name="operation"></param>
+            <param name="context"></param>
+        </member>
+        <member name="T:Repair.Api.Filters.GlobalExceptionFilter">
+            <summary>
+            全局异常拦截器
+            </summary>
+        </member>
+        <member name="M:Repair.Api.Filters.GlobalExceptionFilter.#ctor(Microsoft.Extensions.Logging.ILogger{Repair.Api.Filters.GlobalExceptionFilter})">
+            <summary>
+            构造函数
+            </summary>
+            <param name="logger"></param>
+        </member>
+    </members>
+</doc>

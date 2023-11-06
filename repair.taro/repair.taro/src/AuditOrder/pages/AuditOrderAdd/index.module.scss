@@ -1,0 +1,20 @@
+.box{
+  padding: 20px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.rate{
+  display: flex;
+  margin-bottom: 20px;
+  align-items: center;
+  height: 40px;
+  justify-content: space-between;
+}
+.img{
+  width: 40px;
+  height: 40px;
+  margin: 0 20px;
+}
+.btn{
+  margin: 40px 0;
+}

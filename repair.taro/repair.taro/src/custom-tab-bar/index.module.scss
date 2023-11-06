@@ -1,0 +1,18 @@
+.bottom{
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  background-color: #fff;
+  box-shadow: 0 -5px 10px 0 rgba(0,0,0,.03);
+  padding: 10px 100px;
+  box-sizing: border-box;
+  //height: 100px;
+  display: flex;
+  justify-content: space-between;
+  // font-size: 18px;
+}
+.bottomList{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

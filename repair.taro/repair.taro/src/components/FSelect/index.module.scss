@@ -1,0 +1,31 @@
+.mask{
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  background-color: rgba(204, 204, 204, 0.5);
+  z-index: 100;
+  display: block;
+}
+.maskFalse{
+  display: none;
+}
+.bodys{
+  background-color: #fff;
+  position: absolute;
+  width: 100vw;
+  max-height: 50vh;
+  overflow-y: scroll;
+  z-index: 101;
+  left: 0;
+  bottom: 0;
+  height: auto;
+  transition: height 1s ease-in-out;
+}
+.option{
+  padding: 20px;
+  margin: 20px 0;
+  text-align: center;
+  box-sizing: border-box;
+}

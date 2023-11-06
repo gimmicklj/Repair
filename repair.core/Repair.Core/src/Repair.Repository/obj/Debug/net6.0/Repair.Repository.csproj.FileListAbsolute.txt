@@ -1,0 +1,190 @@
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\bin\Debug\net6.0\Repair.Repository.deps.json
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\bin\Debug\net6.0\Repair.Repository.dll
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\bin\Debug\net6.0\Repair.Repository.pdb
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\bin\Debug\net6.0\Repair.Core.dll
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\bin\Debug\net6.0\Repair.Entity.dll
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\bin\Debug\net6.0\Repair.Core.pdb
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.pdb
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\bin\Debug\net6.0\Repair.Entity.pdb
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\obj\Debug\net6.0\Repair.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfo.cs
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CopyComplete
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\obj\Debug\net6.0\Repair.Repository.dll
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\obj\Debug\net6.0\refint\Repair.Repository.dll
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\obj\Debug\net6.0\Repair.Repository.pdb
+C:\Users\Admin\Desktop\NetCore\Repair.Api\Repair.Repository\obj\Debug\net6.0\ref\Repair.Repository.dll
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.Repository.deps.json
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.Repository.dll
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.Repository.pdb
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.Core.dll
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.Entity.dll
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.Core.pdb
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.pdb
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.Entity.pdb
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfo.cs
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CopyComplete
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.dll
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\obj\Debug\net6.0\refint\Repair.Repository.dll
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.pdb
+C:\Users\Admin\Desktop\NetCore\Repair.Core\Repair.Repository\obj\Debug\net6.0\ref\Repair.Repository.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\bin\Debug\net6.0\Repair.Repository.deps.json
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\bin\Debug\net6.0\Repair.Repository.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\bin\Debug\net6.0\Repair.Repository.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\bin\Debug\net6.0\Repair.Core.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\bin\Debug\net6.0\Repair.Entity.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\bin\Debug\net6.0\Repair.Core.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\bin\Debug\net6.0\Repair.Entity.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.AssemblyReference.cache
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfoInputs.cache
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfo.cs
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CoreCompileInputs.cache
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CopyComplete
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\obj\Debug\net6.0\refint\Repair.Repository.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\RepairSystem.Core\Repair.Repository\obj\Debug\net6.0\ref\Repair.Repository.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.Repository.deps.json
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.Repository.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.Repository.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.Core.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.Entity.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.Core.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\bin\Debug\net6.0\Repair.Entity.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.AssemblyReference.cache
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfoInputs.cache
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfo.cs
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CoreCompileInputs.cache
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CopyComplete
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\obj\Debug\net6.0\refint\Repair.Repository.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\obj\Debug\net6.0\Repair.Repository.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\Repair.Repository\obj\Debug\net6.0\ref\Repair.Repository.dll
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.deps.json
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.dll
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.pdb
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Core.dll
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Entity.dll
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Core.pdb
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.pdb
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Entity.pdb
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CopyComplete
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.dll
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\refint\Repair.Repository.dll
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.pdb
+C:\Users\Admin\Desktop\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\ref\Repair.Repository.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.deps.json
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Core.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Entity.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Core.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Entity.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.AssemblyReference.cache
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfoInputs.cache
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfo.cs
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CoreCompileInputs.cache
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CopyComplete
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\refint\Repair.Repository.dll
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.pdb
+E:\文档\第二次实训\4. 项目源码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\ref\Repair.Repository.dll
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.deps.json
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.dll
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.pdb
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Core.dll
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Entity.dll
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.pdb
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Core.pdb
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Entity.pdb
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfo.cs
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CopyComplete
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.dll
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\refint\Repair.Repository.dll
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.pdb
+C:\Users\Admin\Desktop\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\ref\Repair.Repository.dll
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.deps.json
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.dll
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.pdb
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Core.dll
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Entity.dll
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.dll
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.pdb
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Core.pdb
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Entity.pdb
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.AssemblyReference.cache
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfoInputs.cache
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfo.cs
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CoreCompileInputs.cache
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CopyComplete
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.dll
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\refint\Repair.Repository.dll
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.pdb
+E:\文档\答辩的资料\3. 项目源代码\repair.core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\ref\Repair.Repository.dll
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.deps.json
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.dll
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.pdb
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Core.dll
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Entity.dll
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.pdb
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Core.pdb
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Entity.pdb
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CopyComplete
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.dll
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\refint\Repair.Repository.dll
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.pdb
+C:\Users\Administrator\Desktop\code\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\ref\Repair.Repository.dll
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.deps.json
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.dll
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Repository.pdb
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Core.dll
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Entity.dll
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.dll
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.EntityFrameworkCore.pdb
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Core.pdb
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\bin\Debug\net6.0\Repair.Entity.pdb
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.AssemblyReference.cache
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfoInputs.cache
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.AssemblyInfo.cs
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CoreCompileInputs.cache
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.csproj.CopyComplete
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.dll
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\refint\Repair.Repository.dll
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\Repair.Repository.pdb
+E:\文档\Tencent Files\QQ\Repair.Core\Repair.Core\src\Repair.Repository\obj\Debug\net6.0\ref\Repair.Repository.dll

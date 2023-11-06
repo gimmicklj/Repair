@@ -1,0 +1,51 @@
+.tabs{
+  width: 100vw;
+  height: 80vh;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding-top: 20px;
+}
+.box{
+  height: 100%;
+  overflow-y: auto;
+  padding: 0 20px;
+}
+.card{
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 0 5px #fff, 0 0 10px #ccc;
+}
+
+.cardBox{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+.cardBoxBtn{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cardBoxBtn1{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+.btnSuccess{
+  background-color: #1465e0;
+  color: #fff;
+}
+.btnDanger{
+  background-color: #bd1245;
+  color: #fff;
+}
+.ratingImage {
+  height: 40px;
+  width: 40px;
+}

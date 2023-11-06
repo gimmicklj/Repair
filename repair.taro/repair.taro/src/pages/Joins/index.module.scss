@@ -1,0 +1,28 @@
+.home{
+  width: 100vw;
+  height: 100vh;
+}
+.header{
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  height: 8vh;
+  &>.text{
+    width: calc(100vw / 3);
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+  }
+}
+.textActive{
+  color: aqua;
+}
+.box{
+  height: calc(100vh - 8vh);
+  overflow-y: auto;
+  width: 100vw;
+  overflow-x: hidden;
+}
+.card{
+ padding: 10px;
+  box-sizing: border-box;
+}
